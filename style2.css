@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+
+}
+.center {
+    width: 20%;
+    height: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}  h3 {
+    text-align: center;
+    background-color: blue;
+    color: aliceblue;
+} .banner {
+    display: block;
+    margin-left: auto;
+    margin-left: auto;
+    width: 100px;
+    height: 10px;
+}
